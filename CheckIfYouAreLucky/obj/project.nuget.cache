@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aBhO0iQbl8qDmzyuE2NqlYNDk6OXRKq+gTvPxo9RfU97bjj0rcIWKhyxCCokY+sKySiShcV+AqLVVxgFKcZ3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bon\\source\\repos\\CheckIfYouAreLucky\\CheckIfYouAreLucky\\CheckIfYouAreLucky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Bon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Bon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Bon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
